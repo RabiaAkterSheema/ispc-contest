@@ -1,1 +1,1 @@
-# ispc-contest
+# ISPC-contest
